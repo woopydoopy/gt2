@@ -26,12 +26,12 @@ switch (count) // начало оператора switch
 }
     case 3: // если count = 3
 {
-    cout <<  " This function is not ready yet"  << endl;
+    cout <<   MyMul(a,b)  << endl;
     break;
 }
     case 4: // если count = 4
 {
-    cout <<  " This function is not ready yet"  << endl;
+    cout <<   MyDiv(a,b)  << endl;
     break;
 }
     default: // если count равно любому другому значению
