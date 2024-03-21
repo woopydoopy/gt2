@@ -21,7 +21,7 @@ switch (count) // начало оператора switch
 }
     case 2: // если count = 2
 {
-    cout <<  " This function is not ready yet"  << endl;
+    cout << MySub(a,b) << endl;
     break;
 }
     case 3: // если count = 3
